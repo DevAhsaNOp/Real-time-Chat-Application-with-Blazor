@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "P+ZxOl3Mu5hQ/yu3+TpSTcHrNLBbCrxQa786+ecHxSV5mC9gw6inepvCJRqSaTUGK6TSjEhbwknAORmTb74k1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahnkh\\Downloads\\BlazorChatSignalR\\BlazorChatSignalR\\Shared\\BlazorChatSignalR.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahnkh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\ahnkh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\ahnkh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
